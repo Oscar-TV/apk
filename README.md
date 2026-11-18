@@ -5,7 +5,6 @@
 **أوسكار تيفي** تطبيق مجاني لمشاهدة **المسلسلات العربية والتركية والأجنبية**، **الأفلام**، **الأنمي المدبلج والمترجم**، **عروض المصارعة**، و**البث المباشر للمباريات والقنوات** — على هاتف أندرويد وعلى **أندرويد تيفي** بجودات متعددة.
 
 [![آخر إصدار](https://img.shields.io/github/v/release/Oscar-TV/apk?label=%D8%A2%D8%AE%D8%B1%20%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1&color=e50914)](https://github.com/Oscar-TV/apk/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Oscar-TV/apk/total?label=%D8%A7%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84%D8%A7%D8%AA&color=222)](https://github.com/Oscar-TV/apk/releases)
 [![الموقع الرسمي](https://img.shields.io/badge/%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9%20%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A-oscartv.app-e50914)](https://oscartv.app)
 
 ## ⬇️ التحميل
